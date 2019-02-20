@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "uaa",
+    "gitCompany": "",
+    "baseName": "oauth2Authentication",
+    "packageName": "com.example",
+    "packageFolder": "com/example",
+    "serverPort": 9999,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "YzYwYTIxNGE4M2ExZTVmZGIxNzMxZWNlYTQ4MmJjYTAxNTNhNWU5OThhNTJlMGIxMmE2NWNhOTUxYTFlMGUyZDM1NTg5MDNjMmVlYTIwMzI0ZTMyOTFkZDU4MzYzMTQ3YzE2NzkxM2E2Y2E4N2Y5YTU0MDRhOWQ5MmJhNjJiMjE=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "skipClient": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "94192448",
+  "repository-name": "oauth2-authentication"
+}
